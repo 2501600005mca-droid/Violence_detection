@@ -1,6 +1,4 @@
----
 
-```markdown
 # 🛡️ Real-Time Violence Detection System (CNN + LSTM)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -99,6 +97,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 *Built as an MCA Academic Project — Bridging the gap between AI and Public Safety.*
-```
 
 https://github.com/your-username/Violence-Detection-LSTM.git
