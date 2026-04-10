@@ -101,5 +101,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 *Built as an MCA Academic Project — Bridging the gap between AI and Public Safety.*
 ```
 
-### 📝 Ek chhota sa kaam:
-Jahan `https://github.com/your-username/Violence-Detection-LSTM.git` likha hai, wahan apna asli GitHub profile ka naam aur repository ka naam daal dena! Good luck for your submission! 🚀
+https://github.com/your-username/Violence-Detection-LSTM.git
